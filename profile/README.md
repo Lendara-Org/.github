@@ -26,7 +26,7 @@ Open infrastructure for Latin America: an embeddable local-currency → USDC on-
 
 ### Lendara: the on-ramp
 
-An embeddable **CRC / ARS / CLP → USDC** on-ramp, like a checkout for Stellar. A project gets an API key, embeds a widget in a few lines, and its users pay in local currency and receive USDC. Any SEP-24 wallet can use it with no extra code.
+An embeddable **ARS / CLP / CRC → USDC** on-ramp (Argentina, Chile, Costa Rica), like a checkout for Stellar. A project gets an API key, embeds a widget in a few lines, and its users pay in local currency and receive USDC. Any SEP-24 wallet can use it with no extra code.
 
 The public **sandbox** is a real anchor on testnet with simulated fiat rails and test cards, so you can test every path, failures included.
 
