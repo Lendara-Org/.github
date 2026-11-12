@@ -5,8 +5,6 @@
   </picture>
 </p>
 
-<h1 align="center">Lendara</h1>
-
 <p align="center"><b>Local money in, private USDC out, on Stellar.</b></p>
 
 <p align="center">
